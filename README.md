@@ -1,2 +1,0 @@
-# LuxuryStay
-Repository for Greta
